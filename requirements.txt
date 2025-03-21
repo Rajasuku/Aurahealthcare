@@ -4,7 +4,7 @@ openai
 pyttsx3
 tensorflow
 folium
-mysql
+mysql-connector-python
 transformers
 numpy
 geopy
