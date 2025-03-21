@@ -1,4 +1,3 @@
-Python
 Streamlit 
 opencv-python-headless
 openai
