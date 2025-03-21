@@ -1,11 +1,12 @@
 Python
 Streamlit 
 opencv-python-headless
-open AI
-CNN,Skin disease dataset
-Hugging face API keys
+openai
+pyttsx3
 tensorflow
 folium
 mysql
 transformers
 numpy
+geopy
+huggingface-hub
