@@ -1,6 +1,6 @@
 Python
 Streamlit 
-Open cv
+opencv-python-headless
 open AI
 CNN,Skin disease dataset
 Hugging face API keys
